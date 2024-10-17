@@ -1,0 +1,246 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+.containersratovedzaxit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAFAFA;
+    width: 100vw;
+    height: 100vh;
+}
+
+.boxmtliani {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    height: 100vh;
+    background-color: #FAFAFA;
+    flex-direction: column;
+}
+
+.textebi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FAFAFA;
+}
+
+.text1 {
+    color: #4D4F62;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 275;
+    letter-spacing: 0.25px;
+    font-family: "Poppins", sans-serif;
+}
+
+.text2 {
+    color: #4D4F62;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 0.25px;
+    font-family: "Poppins", sans-serif;
+}
+
+.text3 {
+    color: #4D4F62;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.104px;
+    width: 540px;
+}
+
+.sadaciwvalebshemdegi4saati {
+    display: flex;
+    padding: 10px 165px;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+}
+
+.pirv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAFAFA;
+    width: 350px;
+    height: 370px;
+}
+
+.pirvori {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FAFAFA;
+    width: 350px;
+    height: 450px;
+}
+
+.pirvsami {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAFAFA;
+    width: 350px;
+    height: 370px;
+}
+
+.mwvane {
+    width: 300px;
+    height: 200px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.50);
+    border-top: 4px solid #44D3D2;
+    position: relative;
+}
+
+.witeli {
+    width: 300px;
+    height: 200px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.50);
+    border-top: 4px solid #EA5454;
+    position: relative;
+}
+
+.yviteli {
+    width: 300px;
+    height: 200px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.50);
+    border-top: 4px solid #FCAE4A;
+    position: relative;
+}
+
+.cisperi {
+    width: 300px;
+    height: 200px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.50);
+    border-top: 4px solid #549EF2;
+    position: relative;
+}
+.marla{
+    justify-content: flex-start;
+    padding: 32px;
+}
+.davi {
+    color: #4D4F62;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.gale {
+    color: #4D4F62;
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.09px;
+    width: 286px;
+}
+.lupachka {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    bottom: 32px;  
+    right: 32px;  
+}
+.marla2{
+    justify-content: flex-start;
+    padding: 32px;
+}
+.davi2 {
+    color: #4D4F62;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.gale2 {
+    color: #4D4F62;
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.09px;
+    width: 286px;
+}
+.saxluchka {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    bottom: 32px;  
+    right: 32px;  
+}
+.marla3{
+    justify-content: flex-start;
+    padding: 32px;
+}
+.davi3 {
+    color: #4D4F62;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.gale3{
+    color: #4D4F62;
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.09px;
+    width: 286px;
+}
+.marla4{
+    justify-content: flex-start;
+    padding: 32px;
+}
+.davi4 {
+    color: #4D4F62;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.gale4 {
+    color: #4D4F62;
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.09px;
+    width: 286px;
+}
+.developmenti {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    bottom: 32px;  
+    right: 32px;  
+}
